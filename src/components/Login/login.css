@@ -1,0 +1,140 @@
+/* Custom styles to remove blue hover and focus effect */
+
+*{
+    font-family: 'Noto Sans', sans-serif;
+}
+input.form-control:focus, 
+input.form-control:active {
+  border-color: black !important;
+  box-shadow: none !important;
+}
+
+.form-check-input:focus, 
+.form-check-input:active {
+  box-shadow: none !important;
+}
+/* Custom styles to add black border to the checkbox */
+.form-check-input {
+    border: 2px solid black !important; 
+    border-radius: 0px !important;
+     /* Black border for the checkbox */
+    box-shadow: none !important; /* Remove the default focus shadow */
+    width: 32px !important;
+    height: 32px !important;
+    margin-right: 16px;
+    margin-bottom: 24px;
+
+  }
+  .form-check-label{
+   margin-top: 6px;
+   margin-bottom: 24px;
+   font-size: 16px;
+   font-weight: 600;
+   color:  #3D3D3D;
+   ;
+  }
+  /* Ensure focus does not show a blue outline */
+  .form-check-input:focus {
+    border-color: black !important;
+    box-shadow: none !important;
+  }
+  
+  /* Change background color of checked state */
+  .form-check-input:checked {
+
+    background-color: black !important; /* Black background when checked */
+    border-color: black !important; /* Keep black border when checked */
+  }
+.signin{
+   
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 14px;
+    color: #3D3D3D;
+    
+}
+.newuser {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 29px;
+    color: #3D3D3D;
+}
+.createaccount{
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 29px;
+    color:#587FFF;
+    ;
+}
+.username{
+    width: 280px !important;
+    height: 48px !important;
+    margin-bottom: 16px;
+    
+
+
+    
+    border-color: #3E3E3E;
+    
+    
+}
+.signbutton{
+    width: 280px;
+    height: 48px;
+   background-color:  #3D3D3D !important;
+   border-color: #3D3D3D !important;
+    border-radius: 0px !important;
+    font-size: 16px;
+    font-weight: 600px;
+    margin-bottom: 32px;
+}
+.signinwith{
+    display: flex; 
+    flex-direction: row; 
+    margin-bottom: 31px;
+    width: 280px;
+    height: 19px;
+}
+.signinwith:before {
+    content: ""; 
+    flex: 1 1; 
+    border-bottom: 2px solid #CFCFCF; 
+    margin: 0 10px 5px 0; 
+    width: 72px;
+  font-size: 13px;
+  font-weight: 700;
+    
+color:  #3D3D3D;
+;
+}
+.signinwith:after {
+    content: ""; 
+    flex: 1 1; 
+    border-bottom: 2px solid #CFCFCF; 
+    margin: 0 0px  5px 10px; 
+    width: 72px;
+ 
+    
+
+}
+.icon {
+    height: 48px;
+    width: 48px;
+    padding-top: 10px !important;
+    border: 2px solid #3E3E3E !important;
+    
+}
+.login-image{
+    width: 300px;
+    height: 509px !important;
+}
+@media (max-width: 768px) {
+    
+    .justify-content-center-mobile {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+ 
+}

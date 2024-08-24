@@ -1,0 +1,102 @@
+
+*{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+hr {
+height: 4px; 
+color: black !important; 
+background-color: black;
+border: 2px solid !important; 
+opacity: 1 !important;
+}
+/* Default (Web) View */
+.carousel-image {
+    width: 807px;
+    height: 498px;
+    background-color: #F0F0F0;
+    position: "relative",
+    ;
+    margin-bottom: 32px;
+  }
+
+  .card-image {
+    width: 232px;
+    height: 498px !important;
+    background-color: #F0F0F0 !important;
+    border-radius:0px !important
+  }
+  .containerclass{
+    width:'1077px' !important;
+  height:'875px' !important;
+  padding-left: 0 !important;
+ 
+  }
+  .images{
+    width:127px !important;
+    height:96px;
+    padding-right:10px
+  }
+  .text-dark{
+   font-size: 24px !important;
+    font-weight:600 !important;
+    color: #3D3D3D;
+  }
+  .region{
+    font-size: 16px !important;
+    color:  #6F6F6F;
+    font-weight: 400
+    ;
+  }
+  .custom-card{
+    width:528px;
+    height:130px,
+  }
+  /* App View */
+  @media (max-width: 768px) {
+    .carousel-image {
+      width: 317px;
+      height: 195.62px;
+
+    }
+    .images{
+        width:48px !important;
+        height:46px !important
+      }
+    .card-image {
+      width: 317px !important;
+      height: 147px !important;
+    }
+  }
+  @media (max-width: 768px) {
+    .custom-card {
+        height: 68px !important;
+        width: 317px !important;
+      }
+      .card-body{
+        padding: 0 0px 0 10px !important;
+      }
+      .text-dark{
+        font-size:16px !important;
+        font-weight:600 !important;
+        color: #3D3D3D;
+        
+      }
+      .region{
+        font-size: 13px !important;
+        color:  #6F6F6F;
+        font-weight: 400
+        ;
+      }
+      .justify-content-center-mobile {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+      .view{
+        display: flex;  
+        justify-content: center;  
+      }
+  }
+  

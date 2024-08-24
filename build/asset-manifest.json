@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ad66d15.css",
+    "main.js": "/static/js/main.c2be4a3c.js",
+    "static/js/453.3dfb4c1d.chunk.js": "/static/js/453.3dfb4c1d.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/noto-sans-devanagari-400-normal.woff": "/static/media/noto-sans-devanagari-400-normal.f05a9c61a35577626752.woff",
+    "static/media/noto-sans-latin-ext-400-normal.woff": "/static/media/noto-sans-latin-ext-400-normal.cabb9a4f02da292cd625.woff",
+    "static/media/noto-sans-devanagari-400-normal.woff2": "/static/media/noto-sans-devanagari-400-normal.ce41a26bdafdf523e257.woff2",
+    "static/media/noto-sans-latin-ext-400-normal.woff2": "/static/media/noto-sans-latin-ext-400-normal.c4fc9143412ec6a991b3.woff2",
+    "static/media/noto-sans-cyrillic-ext-400-normal.woff": "/static/media/noto-sans-cyrillic-ext-400-normal.6cc1a97807dbf9a05c6b.woff",
+    "static/media/noto-sans-cyrillic-ext-400-normal.woff2": "/static/media/noto-sans-cyrillic-ext-400-normal.45eb0265067aa34f9199.woff2",
+    "static/media/noto-sans-latin-400-normal.woff": "/static/media/noto-sans-latin-400-normal.5bddddc6924b3623ddc9.woff",
+    "static/media/noto-sans-latin-400-normal.woff2": "/static/media/noto-sans-latin-400-normal.c417ee867416d52e5187.woff2",
+    "static/media/noto-sans-greek-400-normal.woff": "/static/media/noto-sans-greek-400-normal.14d43341db9c476a80be.woff",
+    "static/media/noto-sans-cyrillic-400-normal.woff": "/static/media/noto-sans-cyrillic-400-normal.0b94f5844239abfaf40f.woff",
+    "static/media/noto-sans-greek-400-normal.woff2": "/static/media/noto-sans-greek-400-normal.e3cac0c1e95c169e9ca7.woff2",
+    "static/media/noto-sans-vietnamese-400-normal.woff": "/static/media/noto-sans-vietnamese-400-normal.8098e5a571d23f4bba44.woff",
+    "static/media/noto-sans-cyrillic-400-normal.woff2": "/static/media/noto-sans-cyrillic-400-normal.96d6efd5580b41de53e6.woff2",
+    "static/media/noto-sans-greek-ext-400-normal.woff": "/static/media/noto-sans-greek-ext-400-normal.047e5c1819fbe26f81f9.woff",
+    "static/media/noto-sans-vietnamese-400-normal.woff2": "/static/media/noto-sans-vietnamese-400-normal.8685aabaa4ccebed7b0f.woff2",
+    "static/media/noto-sans-greek-ext-400-normal.woff2": "/static/media/noto-sans-greek-ext-400-normal.cc048507994039b6463f.woff2",
+    "index.html": "/index.html",
+    "main.7ad66d15.css.map": "/static/css/main.7ad66d15.css.map",
+    "main.c2be4a3c.js.map": "/static/js/main.c2be4a3c.js.map",
+    "453.3dfb4c1d.chunk.js.map": "/static/js/453.3dfb4c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ad66d15.css",
+    "static/js/main.c2be4a3c.js"
+  ]
+}
